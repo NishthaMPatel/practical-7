@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">p7_20012011116</string>
+    <string name="text1" />
+    <string name="text2" />
+    <string name="text3" />
+    <string name="create_alarm" />
+    <string name="text4" />
+    <string name="cancel_alarm" />
+</resources>
